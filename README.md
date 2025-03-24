@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/saheer123-max/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/saheer123-max/LeetCode/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/saheer123-max/LeetCode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
