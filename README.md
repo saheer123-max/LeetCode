@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/saheer123-max/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/saheer123-max/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
