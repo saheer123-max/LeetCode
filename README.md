@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saheer123-max/LeetCode/tree/master/0001-two-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/saheer123-max/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
 ## Math
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/saheer123-max/LeetCode/tree/master/3226-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saheer123-max/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
